@@ -37,7 +37,7 @@
 
     <!-- HERO -->
     <section id="hero">
-        <div class="hero-eyebrow">Creative Developer · Tech Student · Bechlor</div>
+        <div class="hero-eyebrow">Creative Developer · Tech Student · Bachelor</div>
         <h1 class="hero-title" id="heroTitle" data-text="WAJEEH">
             <span class="letter">W</span><span class="letter">A</span><span class="letter">J</span><span
                 class="letter">E</span><span class="letter">E</span><span class="letter">H</span>
