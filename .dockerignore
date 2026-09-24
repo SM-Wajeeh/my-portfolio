@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+yarn-error.log
+vendor
+.git
+.gitignore
+.env
+.env.*
+Dockerfile
+.dockerignore
+storage/logs/*
+storage/app/*
+bootstrap/cache/*
+public/build
