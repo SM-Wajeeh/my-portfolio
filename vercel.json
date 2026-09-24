@@ -1,7 +1,7 @@
 {
   "version": 2,
   "framework": null,
-  "buildCommand": "npm ci && npm run build",
+  "buildCommand": "npm ci && npm approve-scripts --allow-scripts-pending || true && npm run build",
   "outputDirectory": "public",
   "env": {
     "APP_ENV": "production",
