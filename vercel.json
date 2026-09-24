@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "framework": "other",
   "buildCommand": "npm ci && npm approve-scripts --allow-scripts-pending || true && npm run build",
   "outputDirectory": "public",
   "env": {
